@@ -1,37 +1,125 @@
-## Welcome to GitHub Pages
+# Introduction to R - FUERTE SNARL Retreat September 2022
 
-You can use the [editor on GitHub](https://github.com/anamtk/FUERTE_data_workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### In-Person
+### September 5-8, 2022
+### 9:00am - 10:45 (Los Angeles, PDT)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Instructors: Ana Miller-ter Kuile, Michelle Lee, Jannine Chammoro, Caroline Owens
 
-### Markdown
+## General Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Requirements**: Participants must have access to a computer with a Mac, Linux, or Windows operating system. In addition, please install the specific software packages listed [below](#setup). 
 
-```markdown
-Syntax highlighted code block
+**Accessibility**: We are dedicated to providing a positive and accessible learning environment for all learners. Please email the instructors prior to the workshop if you require any accomodations or if there is anything we can do to help make the workshop accessible to you. 
 
-# Header 1
-## Header 2
-### Header 3
+**Contact**: You can email ana.miller-ter-kuile@nau.edu for any information.
 
-- Bulleted
-- List
+## Code of conduct
 
-1. Numbered
-2. List
+We will be abiding by a code of conduct for this workshop based on the code of [R-Ladies](https://rladies.org/code-of-conduct/). 
 
-**Bold** and _Italic_ and `Code` text
+Any code of conduct violations can be reported here and will result in removal of violators from the remainder of the workshop. 
 
-[Link](url) and ![Image](src)
-```
+## Surveys
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Please be sure to complete these surveys before and after the workshop
 
-### Jekyll Themes
+Pre-workshop survey
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anamtk/FUERTE_data_workshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Post-workshop survey]()
 
-### Support or Contact
+## Schedule
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Day 1
+
+| September 5 |  | 
+| ------------- | ------------- | 
+| 9:00am (PST)  | [Before we start](https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html)  |
+| 9:45am  | BREAK  |
+| 10:00am  | [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)  |
+| 10:45am  | END  |
+
+### Day 2
+
+|September 6 | |
+| 9:00am (PST) | [Starting with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)  |
+| 9:45am  | BREAK |
+| 10:00am  | [Starting with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html), cont.   |
+| 10:45am | END  |
+
+### Day 3
+
+|September 7 | |
+| 9:00am (PST) | [Manipulating data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html) |
+| 9:45am  | BREAK |
+| 10:00am  | [Manipulating data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html), cont. |
+| 10:45am | END  |
+
+### Day 4
+
+|September 8 | |
+| 9:00am (PST) |  [Visualizing data](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)  |
+| 9:45am  | BREAK |
+| 10:00am  | [Visualizing data](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html), cont. |
+| 10:45am | END  |
+
+## Setup
+
+Before the workshop, please make sure you have completed the following setup steps: 
+
+### Download/Update R and RStudio
+
+You will need a current version of R and RStudio for this workshop. You can find [instructions for installing or updating these programs here](https://datacarpentry.org/R-ecology-lesson/index.html#Install_R_and_RStudio).
+
+You are only required to follow the instructions under the **Install R and RStudio** or **Update R and RStudio** sections. 
+
+## Learn More
+
+### At UCSB and in Santa Barbara
+
+[UCSB Library Collaboratory Workshops](https://www.library.ucsb.edu/software-carpentry)
+
+[R Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/)
+
+[EcoDataScience](https://eco-data-science.github.io/) (both local and virtual communities and opportunities)
+
+### Beyond UCSB
+
+[R Ladies Global](https://rladies.org/)
+
+[Allison Horst's Courses and Workshops](https://allisonhorst.github.io/) on data management, analysis, and visualization
+
+[Data Carpentries lessons](https://datacarpentry.org/lessons/)
+
+[Software Carpentries lessons](https://software-carpentry.org/lessons/)
+
+[Carpentries Community Lessons](https://carpentries.org/community-lessons/)
+
+[R-DAVIS](https://gge-ucd.github.io/R-DAVIS/)
+
+[R 4 Data Science (Hadley Wickham/Garret Grolemund)](https://r4ds.had.co.nz/)
+
+[CU Boulder EarthLab Course Notes](https://www.earthdatascience.org/courses/)
+
+[More fun with FUNctions! by An Bui](https://an-bui.shinyapps.io/FUNctions-learnR/#section-about-and-credits)
+
+[Tidy Tuesday Workshop series by Heili Lowman](https://github.com/hlowman/TidyTuesday)
+
+### Other R-based Tools
+
+[Happy Git with R](https://happygitwithr.com/) for collaborating with others and future you
+
+[RMarkdown the Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+[Mastering Shiny](https://mastering-shiny.org/)
+
+### Ecological Statistics in R
+
+[Stat 545 (Jenny Bryan)](https://stat545.com/)
+
+[Allison Horst's Courses and Workshops](https://allisonhorst.github.io/) on data management, analysis, and visualization
+
+[Kyle Edwards' Advanced Statistics Course Notes](https://sites.google.com/site/kyleedwardsresearch/lecture-notes?authuser=0)
+
+[Fukami Lab Statistics Course Notes](https://fukamilab.github.io/BIO202/index.html)
+
