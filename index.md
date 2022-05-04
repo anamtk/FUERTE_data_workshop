@@ -1,5 +1,4 @@
-# Introduction to R
-# FUERTE SNARL Retreat September 2022
+# Introduction to R for ecology
 
 ### In-Person
 ### September 5-8, 2022
