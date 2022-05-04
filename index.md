@@ -1,4 +1,4 @@
-# Introduction to R for ecology
+# Introduction to R for ecological data analysis
 
 ### In-Person
 ### September 5-8, 2022
