@@ -1,4 +1,5 @@
-# Introduction to R - FUERTE SNARL Retreat September 2022
+# Introduction to R
+# FUERTE SNARL Retreat September 2022
 
 ### In-Person
 ### September 5-8, 2022
