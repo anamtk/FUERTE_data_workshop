@@ -1,7 +1,5 @@
 # Introduction to R - FUERTE SNARL Retreat September 2022
 
-## Thank you!
-
 ### In-Person
 ### September 5-8, 2022
 ### 9:00am - 10:45 (Los Angeles, PDT)
